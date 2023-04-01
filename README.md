@@ -22,14 +22,15 @@ A simple and efficient Python script to scrape images from Baidu Image Search ba
 
 ```bash
 git clone https://github.com/yourusername/baidu-image-crawler.git
+```
 Install the required packages:
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+```
 Usage
-bash
-Copy code
+```bash
 python baidu_image_crawler.py
+```
 Modify the keyword and num_images variables in the script to specify the keyword for image search and the number of images to download.
 
 Contributing
